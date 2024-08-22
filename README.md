@@ -1,3 +1,2 @@
-# rnd_ench
-# rnd_ench
-# rnd_ench
+# Random Minecraft enchantment generator
+Generates random Minecraft enchantment. Highly customizable.
